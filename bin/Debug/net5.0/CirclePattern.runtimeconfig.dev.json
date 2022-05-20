@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\woliv\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\woliv\\.nuget\\packages"
-    ]
-  }
-}
